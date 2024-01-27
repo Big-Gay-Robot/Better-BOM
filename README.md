@@ -54,3 +54,12 @@ As part of our commitment to continuous improvement and innovation, we are also 
 2. **AI Integration for BOM Parsing:** Explore the possibility of integrating artificial intelligence to assist in parsing and converting non-standard BOMs into our standardized format. This would significantly reduce the manual effort required to transition from various formats and enhance the overall efficiency of the process.
 
 These advancements will further streamline project management and collaboration within our community, aligning with our goals of efficiency and innovation.
+
+---
+
+
+### License
+
+bom_prosal is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.
+
+You should have received a copy of the license along with this work. If not, see <https://creativecommons.org/licenses/by-nc/3.0/>.
